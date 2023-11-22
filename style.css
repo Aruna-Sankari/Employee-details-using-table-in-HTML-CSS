@@ -1,0 +1,14 @@
+#grad1
+{
+	background-image:linear-gradient(skyblue,pink);
+}
+th::first-line{color:brown;}
+tr:hover
+{
+	color:navy;
+	font-size:25px;
+	font-weight:bold;
+}
+
+
+	
